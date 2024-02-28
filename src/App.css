@@ -37,3 +37,14 @@
     transform: translateY(0px);
   }
 }
+
+/* Styles from my original styles.css file */
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    padding-top: 20px;
+}
