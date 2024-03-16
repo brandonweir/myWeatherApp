@@ -16,9 +16,6 @@ const HomePage = () => {
         <Container>
             <SubHeader current="Home" />
             <WeatherApp />
-            {/* {favorites.map(favorite => (
-                <div key={favorite}>{favorite}</div>
-            ))} */}
         </Container>
     );
 };
